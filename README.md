@@ -1,6 +1,2 @@
 # autokad
-rfid program for uno-based board
-## desc
-planned to be used for auto-locking door for brigade's room (that never came to reality)
-## how to
-flash program through arduino app
+rfid program for 8-bit arv microcontrollers flashing through arduino
